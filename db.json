@@ -4,13 +4,15 @@
             "id": 1,
             "email": "skinmarcos@duoc.cl",
             "username": "bryan",
-            "password": "benjachupalo"
+            "password": "benjachupalo",
+            "tipo": "profesor"
         },
         {
             "id": 2,
             "email": "kkkkk@duoc.cl",
             "username": "vicente",
-            "password": "xd"
+            "password": "xd",
+            "tipo": "alumno"
         }
     ]
 }
