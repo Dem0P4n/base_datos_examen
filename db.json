@@ -19,6 +19,7 @@
         {
             "id": 1,
             "identificador": "PRY-034",
+            "fecha": "",
             "alumnos":[
                 {
                     "id": 2,
