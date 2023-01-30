@@ -5,7 +5,8 @@
             "email": "skinmarcos@duoc.cl",
             "username": "bryan",
             "password": "benjachupalo",
-            "tipo": "profesor"
+            "tipo": "profesor",
+            "idAsignatura": "PRT-432"
         },
         {
             "id": 2,
@@ -13,13 +14,13 @@
             "username": "vicente",
             "password": "xd",
             "tipo": "alumno",
-            "identificadorAsignatura": ""
+            "idAsignatura": ""
         }
     ],
     "clases":[
         {
             "id": 1,
-            "idProfesor": 1,
+            "idAsignatura": "PRT-432",
             "fecha": "",
             "alumnos":[
                 {
