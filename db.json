@@ -14,5 +14,20 @@
             "password": "xd",
             "tipo": "alumno"
         }
+    ],
+    "clases":[
+        {
+            "id": 1,
+            "identificador": "PRY-034",
+            "alumnos":[
+                {
+                    "id": 2,
+                    "email": "kkkkk@duoc.cl",
+                    "username": "vicente",
+                    "password": "xd",
+                    "tipo": "alumno"
+                }
+            ]
+        }
     ]
 }
