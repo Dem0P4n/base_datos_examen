@@ -6,7 +6,6 @@
             "username": "bryan",
             "password": "benjachupalo",
             "tipo": "profesor",
-            "identificadorAsignatura": "PTE-023"
         },
         {
             "id": 2,
@@ -20,8 +19,7 @@
     "clases":[
         {
             "id": 1,
-            "identificadorAsignatura": "PTE-023",
-            "idProfesor": 1
+            "idProfesor": 1,
             "fecha": "",
             "alumnos":[
                 {
