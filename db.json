@@ -7,7 +7,7 @@
           "password": "123456",
           "tipo": "profesor",
           "idAsignatura": "PRT-432"
-        },
+        }, 
         {
           "id": 2,
           "email": "kkkkk@duoc.cl",
