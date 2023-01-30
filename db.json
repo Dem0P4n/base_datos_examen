@@ -5,20 +5,23 @@
             "email": "skinmarcos@duoc.cl",
             "username": "bryan",
             "password": "benjachupalo",
-            "tipo": "profesor"
+            "tipo": "profesor",
+            "identificadorAsignatura": "PTE-023"
         },
         {
             "id": 2,
             "email": "kkkkk@duoc.cl",
             "username": "vicente",
             "password": "xd",
-            "tipo": "alumno"
+            "tipo": "alumno",
+            "identificadorAsignatura": ""
         }
     ],
     "clases":[
         {
             "id": 1,
-            "identificador": "PRY-034",
+            "identificadorAsignatura": "PTE-023",
+            "idProfesor": 1
             "fecha": "",
             "alumnos":[
                 {
