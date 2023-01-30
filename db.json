@@ -35,18 +35,38 @@
       ],
     "clases":[
         {
-            "id": 1,
-            "idAsignatura": "PRT-432",
-            "fecha": "",
-            "alumnos":[
-                {
-                    "id": 2,
-                    "email": "kkkkk@duoc.cl",
-                    "username": "vicente",
-                    "password": "xd",
-                    "tipo": "alumno"
-                }
-            ]
+          "id": 1,
+          "idAsignatura": "PRT-432",
+          "fecha": "",
+          "alumnos": [
+            {
+              "id": 2,
+              "email": "kkkkk@duoc.cl",
+              "username": "vicente",
+              "password": "xd",
+              "tipo": "alumno"
+            }
+          ]
+        },
+        {
+          "idAsignatura": "NRT-345",
+          "fecha": "Mon Jan 30 2023 16:53:52 GMT-0300 (hora de verano de Chile)",
+          "alumnos": [
+            {
+              "email": "benja@duocuc.cl",
+              "username": "me eche la carrera",
+              "password": "1234",
+              "tipo": "profesor",
+              "idAsignatura": "NRT-345"
+            }
+            ],
+          "id": 2
+        },
+        {
+          "idAsignatura": "PRT-432",
+          "fecha": "Mon Jan 30 2023 16:57:05 GMT-0300 (hora de verano de Chile)",
+          "alumnos": [],
+          "id": 3
         }
     ]
 }
