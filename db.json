@@ -31,6 +31,30 @@
           "tipo": "profesor",
           "idAsignatura": "NRT-345",
           "id": 4
+        },
+        {
+            "email": "emailprueba@duocuc.cl",
+            "username": "userPrueba",
+            "password": "passPrueba",
+            "tipo": "profesor",
+            "idAsignatura": "ORE-254",
+            "id": 5
+        },
+        {
+            "email": "emailprueba1@duocuc.cl",
+            "username": "userPrueba1",
+            "password": "passPrueba1",
+            "tipo": "alumno",
+            "idAsignatura": "",
+            "id": 6
+        },
+        {
+            "email": "emailprueba2@duocuc.cl",
+            "username": "userPrueba2",
+            "password": "passPrueba2",
+            "tipo": "alumno",
+            "idAsignatura": "",
+            "id": 7
         }
       ],
     "clases":[
