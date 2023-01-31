@@ -71,6 +71,14 @@
           "tipo": "alumno",
           "idAsignatura": "",
           "id": 9
+        },
+        {
+          "email": "emailprueba5@duocuc.cl",
+          "username": "userPrueba5",
+          "password": "passPrueba5",
+          "tipo": "alumno",
+          "idAsignatura": "",
+          "id": 10
       }
       ],
     "clases":[
