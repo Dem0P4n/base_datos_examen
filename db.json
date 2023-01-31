@@ -63,7 +63,15 @@
             "tipo": "profesor",
             "idAsignatura": "PWE-765",
             "id": 8
-        }
+        },
+        {
+          "email": "emailprueba4@duocuc.cl",
+          "username": "userPrueba4",
+          "password": "passPrueba4",
+          "tipo": "alumno",
+          "idAsignatura": "",
+          "id": 9
+      }
       ],
     "clases":[
         {
